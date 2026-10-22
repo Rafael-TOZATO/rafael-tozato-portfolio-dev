@@ -1,0 +1,16 @@
+{
+  "name": "Rafael Ornelas Tozato – H-Folio",
+  "short_name": "H-Folio",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#090d16",
+  "icons": [
+    {
+      "src": "/banner-portfolio.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}

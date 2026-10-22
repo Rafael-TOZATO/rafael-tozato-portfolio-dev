@@ -23,7 +23,8 @@ const projectGroups = [
 ]
 
 function ProjectCard({ project }: { project: typeof featuredProjects[number] }) {
-  return <article className="project-card"><span className="project-number">{project.number}</span><p className="eyebrow">{project.category}</p><h3>{project.title}</h3><p>{project.description}</p><div className="tags">{project.tags.map((tag) => <span key={tag}>{tag}</span>)}</div><div className="project-actions"><a href={project.github} target="_blank" rel="noreferrer">Ver código no GitHub ↗</a><a href={project.href} target={project.href.startsWith('http') ? '_blank' : undefined} rel={project.href.startsWith('http') ? 'noreferrer' : undefined}>Acessar projeto ↗</a></div></article>
+  const bannerClass = project.title.toLowerCase().replaceAll(' ', '-')
+  return <article className="project-card"><div className={`project-banner ${bannerClass}`} aria-hidden="true"><span>{project.category}</span></div><div className="project-card-content"><span className="project-number">{project.number}</span><p className="eyebrow">{project.category}</p><h3>{project.title}</h3><p>{project.description}</p><div className="tags">{project.tags.map((tag) => <span key={tag}>{tag}</span>)}</div><div className="project-actions"><a href={project.github} target="_blank" rel="noreferrer">Ver código no GitHub ↗</a><a href={project.href} target={project.href.startsWith('http') ? '_blank' : undefined} rel={project.href.startsWith('http') ? 'noreferrer' : undefined}>Acessar projeto ↗</a></div></div></article>
 }
 
 export default function Page() {

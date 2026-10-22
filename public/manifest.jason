@@ -7,9 +7,9 @@
   "theme_color": "#090d16",
   "icons": [
     {
-      "src": "/banner-portfolio.jpg",
+      "src": "/banner-portfolio-retrospectiva.png",
       "sizes": "512x512",
-      "type": "image/jpeg",
+      "type": "image/png",
       "purpose": "any maskable"
     }
   ]

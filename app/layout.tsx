@@ -3,8 +3,8 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Rafael Ornelas Tozato – H-Folio',
-  description: 'Hub de projetos de Rafael Ornelas Tozato: Engenharia de Software, Desenvolvimento Web e Inteligência Artificial.',
+  title: 'Rafael Ornelas Tozato | Portfólio & Projetos',
+  description: 'Portfólio de Rafael Ornelas Tozato: projetos de Engenharia de Software, Desenvolvimento Web, Inteligência Artificial, dados e cloud.',
   generator: 'v0.app',
   manifest: '/manifest.json',
   icons: {

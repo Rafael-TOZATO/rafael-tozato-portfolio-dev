@@ -62,17 +62,6 @@ Este repositório (`rafael-tozato-portfolio-dev`) contém a aplicação principa
 - **Dev Hub:** [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
 - **Microsoft Learn:** [rafaelornelastozato-2209](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209)
 
-## Governança e segurança
-
-- **Quality Gate:** instalação reproduzível com lockfile congelado, auditoria de dependências, verificação TypeScript e build em pushes e pull requests para `main`.
-- **SAST:** GitHub CodeQL analisa JavaScript e TypeScript em pushes, pull requests e execução agendada.
-- **Dependências:** Dependabot monitora pacotes npm e GitHub Actions; o Dependency Review falha o check em pull requests com vulnerabilidades de alta severidade.
-- **Princípio de menor privilégio:** workflows usam permissões mínimas de leitura, exceto as permissões estritamente necessárias para publicar resultados do CodeQL.
-- **Proteção de `main`:** os checks são executados em pushes e pull requests; para bloquear merges sem aprovação dos checks, a proteção da branch deve ser habilitada nas configurações do GitHub.
-- **Dados pessoais:** documentos acadêmicos e registros financeiros identificáveis não são destacados no portfólio sem sanitização e revisão de privacidade.
-- **APIs:** este repositório do portfólio não expõe rotas de API; chaves de integração não devem ser incluídas no código ou nos workflows.
-
-
 ---
 
 ## Governança 4.0 — Segurança e Qualidade

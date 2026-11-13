@@ -15,6 +15,8 @@
 
 ---
 
+---
+
 ## 📄 Retrospectiva Profissional & Trajetória
 <div align="center">
   <h3>"Da Bancada à Engenharia 4.0"</h3>
@@ -24,6 +26,8 @@
     <img src="https://img.shields.io/badge/Acessar_PDF-Retrospectiva_Profissional-007ACC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Ver PDF Retrospectiva">
   </a>
 </div>
+
+---
 
 ---
 
@@ -47,8 +51,12 @@
 
 ---
 
+---
+
 ## 📌 Sobre o Projeto
 Este repositório (`rafael-tozato-portfolio-dev`) contém a aplicação principal do meu portfólio web, projetada com design dark/cyan, navegação fluida, métricas, projetos em destaque, certificações e curadoria de conteúdos técnicos.
+
+---
 
 ---
 
@@ -83,22 +91,17 @@ Este repositório adota controles automatizados de Governança 4.0 para fortalec
 
 ---
 
-## 💻 PROJETOS E PORTFÓLIOS
+---
+
+## 📬 CONTATOS E PERFIS
+
 - **App Ecosystem:** [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
 
 ---
-
-## 🐙 CÓDIGO E REPOSITÓRIOS
 - **GitHub:** [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
 
----
-
-## ✍️ ARTIGOS E PUBLICAÇÕES
 - **Medium:** [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
 
----
-
-## 📬 CONTATOS
 - **LinkedIn:** [rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
 - **GitHub:** [Rafael-TOZATO](https://github.com/Rafael-TOZATO)
 - **Medium:** [@ornelas.tozato](https://medium.com/@ornelas.tozato)

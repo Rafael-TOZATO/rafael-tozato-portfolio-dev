@@ -93,6 +93,15 @@ Este repositório adota controles automatizados de Governança 4.0 para fortalec
 
 ---
 
+<div align="center">
+
+[![Quality Gate](https://img.shields.io/github/actions/workflow/status/Rafael-TOZATO/rafael-tozato-portfolio-dev/quality-gate.yml?branch=main&label=Quality%20Gate)](https://github.com/Rafael-TOZATO/rafael-tozato-portfolio-dev/actions/workflows/quality-gate.yml)
+[![Gitleaks](https://img.shields.io/github/actions/workflow/status/Rafael-TOZATO/rafael-tozato-portfolio-dev/gitleaks.yml?branch=main&label=Gitleaks)](https://github.com/Rafael-TOZATO/rafael-tozato-portfolio-dev/actions/workflows/gitleaks.yml)
+[![CodeQL](https://img.shields.io/github/actions/workflow/status/Rafael-TOZATO/rafael-tozato-portfolio-dev/codeql.yml?branch=main&label=CodeQL)](https://github.com/Rafael-TOZATO/rafael-tozato-portfolio-dev/actions/workflows/codeql.yml)
+[![Dependency Review](https://img.shields.io/github/actions/workflow/status/Rafael-TOZATO/rafael-tozato-portfolio-dev/dependency-review.yml?branch=main&label=Dependency%20Review)](https://github.com/Rafael-TOZATO/rafael-tozato-portfolio-dev/actions/workflows/dependency-review.yml)
+
+</div>
+
 ## 📬 CONTATOS E PERFIS
 
 - **App Ecosystem:** [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)

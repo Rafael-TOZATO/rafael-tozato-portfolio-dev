@@ -86,4 +86,4 @@ Este repositório adota controles automatizados de Governança 4.0 para assegura
 💼 **REDE E CONTATO**
 * LinkedIn: [linkedin.com/in/rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
 * E-mail: [ornelas.tozato@gmail.com](mailto:ornelas.tozato@gmail.com)
-* 
+  

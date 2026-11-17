@@ -11,8 +11,6 @@
 
 <br>
 
----
-
 ## 📄 Retrospectiva Profissional & Trajetória
 <div align="center">
   <h3>"Da Bancada à Engenharia 4.0"</h3>
@@ -22,8 +20,6 @@
     <img src="https://img.shields.io/badge/Acessar_PDF-Retrospectiva_Profissional-007ACC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Ver PDF Retrospectiva">
   </a>
 </div>
-
----
 
 ## 🛠️ Stack Tecnológica & Ecossistema
 <div align="center">
@@ -39,12 +35,8 @@
   <a href="https://github.com/Rafael-TOZATO/rafael-tozato-portfolio-dev/actions/workflows/dependency-review.yml"><img src="https://img.shields.io/github/actions/workflow/status/Rafael-TOZATO/rafael-tozato-portfolio-dev/dependency-review.yml?branch=main&label=Dependency%20Review" alt="Status do Dependency Review"></a>
 </div>
 
----
-
 ## 📌 Sobre o Projeto
 Este repositório (`rafael-tozato-portfolio-dev`) contém a aplicação principal do meu portfólio web, projetada com design dark/cyan, navegação fluida, métricas, projetos em destaque, certificações e curadoria de conteúdos técnicos.
-
----
 
 ## 🛡️ Governança 4.0 — Segurança e Qualidade
 
@@ -57,8 +49,6 @@ Este repositório adota controles automatizados de Governança 4.0 para assegura
 - **Menor privilégio:** permissões mínimas nos workflows e checkout sem persistência desnecessária de credenciais.
 - **Rastreabilidade:** commits, execuções e resultados dos controles permanecem registrados no GitHub Actions.
 
----
-
 <div align="center">
 
 [![Quality Gate](https://img.shields.io/github/actions/workflow/status/Rafael-TOZATO/rafael-tozato-portfolio-dev/quality-gate.yml?branch=main&label=Quality%20Gate)](https://github.com/Rafael-TOZATO/rafael-tozato-portfolio-dev/actions/workflows/quality-gate.yml)
@@ -67,8 +57,6 @@ Este repositório adota controles automatizados de Governança 4.0 para assegura
 [![Dependency Review](https://img.shields.io/github/actions/workflow/status/Rafael-TOZATO/rafael-tozato-portfolio-dev/dependency-review.yml?branch=main&label=Dependency%20Review)](https://github.com/Rafael-TOZATO/rafael-tozato-portfolio-dev/actions/workflows/dependency-review.yml)
 
 </div>
-
----
 
 ## 📬 CONTATOS E PERFIS
 

@@ -13,10 +13,6 @@
 
 ---
 
----
-
----
-
 ## 📄 Retrospectiva Profissional & Trajetória
 <div align="center">
   <h3>"Da Bancada à Engenharia 4.0"</h3>
@@ -29,16 +25,12 @@
 
 ---
 
----
-
----
-
 ## 🛠️ Stack Tecnológica & Ecossistema
 <div align="center">
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Tailwind_%2CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
   <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
   <br><br>
@@ -49,20 +41,12 @@
 
 ---
 
----
-
----
-
 ## 📌 Sobre o Projeto
 Este repositório (`rafael-tozato-portfolio-dev`) contém a aplicação principal do meu portfólio web, projetada com design dark/cyan, navegação fluida, métricas, projetos em destaque, certificações e curadoria de conteúdos técnicos.
 
 ---
 
----
-
----
-
-## Governança 4.0 — Segurança e Qualidade
+## 🛡️ Governança 4.0 — Segurança e Qualidade
 
 Este repositório adota controles automatizados de Governança 4.0 para assegurar integridade dos artefatos e do código, rastreabilidade das alterações, gestão de dependências e prevenção de exposição de credenciais. Os controles são aplicados conforme a natureza técnica e os componentes efetivamente mantidos no projeto.
 
@@ -72,24 +56,6 @@ Este repositório adota controles automatizados de Governança 4.0 para assegura
 - **Dependências:** monitoramento automatizado e revisão de vulnerabilidades conforme os manifests e lockfiles existentes.
 - **Menor privilégio:** permissões mínimas nos workflows e checkout sem persistência desnecessária de credenciais.
 - **Rastreabilidade:** commits, execuções e resultados dos controles permanecem registrados no GitHub Actions.
-
-### Controles específicos do repositório
-
-- **Quality Gate:** instalação reproduzível com lockfile congelado, auditoria de dependências, verificação TypeScript e build em pushes e pull requests para `main`.
-- **SAST:** GitHub CodeQL analisa JavaScript e TypeScript em pushes, pull requests e execução agendada.
-- **Dependências:** Dependabot monitora pacotes npm e GitHub Actions; o Dependency Review falha o check em pull requests com vulnerabilidades de alta severidade.
-- **Princípio de menor privilégio:** workflows usam permissões mínimas de leitura, exceto as permissões estritamente necessárias para publicar resultados do CodeQL.
-- **Proteção de `main`:** os checks são executados em pushes e pull requests; para bloquear merges sem aprovação dos checks, a proteção da branch deve ser habilitada nas configurações do GitHub.
-- **Dados pessoais:** documentos acadêmicos e registros financeiros identificáveis não são destacados no portfólio sem sanitização e revisão de privacidade.
-- **APIs:** este repositório do portfólio não expõe rotas de API; chaves de integração não devem ser incluídas no código ou nos workflows.
-Este repositório adota controles automatizados de Governança 4.0 para fortalecer a integridade da cadeia de suprimentos de software, a rastreabilidade das alterações e a prevenção de exposição de credenciais.
-- **Quality Gate:** validação automatizada compatível com a natureza técnica do repositório, executada em pushes e pull requests direcionados à branch principal.
-- **Segurança de segredos:** análise contínua do histórico Git com Gitleaks Action v3.0.0, incluindo varredura integral do histórico.
-- **SAST:** análise estática com GitHub CodeQL quando aplicável ao código-fonte JavaScript e TypeScript.
-- **Dependências:** instalação reproduzível por lockfile e auditoria de vulnerabilidades nos projetos que mantêm dependências de aplicação.
-- **Menor privilégio:** permissões mínimas declaradas nos workflows e credenciais de checkout não persistidas no ambiente de execução.
-
----
 
 ---
 
@@ -102,17 +68,22 @@ Este repositório adota controles automatizados de Governança 4.0 para fortalec
 
 </div>
 
+---
+
 ## 📬 CONTATOS E PERFIS
 
-- **App Ecosystem:** [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
+💻 **PROJECTS & PORTFOLIOS**
+• App Ecosystem: [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
+• H-Folio Professional: [h-folio-I0.vercel.app](https://h-folio-I0.vercel.app)
 
----
-- **GitHub:** [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
+🐙 **CODES & REPOSITORIES**
+• GitHub: [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
 
-- **Medium:** [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
+✍️ **ARTICLES & PUBLICATIONS**
+• Medium: [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
+• DEV Community: [dev.to/rafaeltozato](https://dev.to/rafaeltozato)
 
-- **LinkedIn:** [rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
-- **GitHub:** [Rafael-TOZATO](https://github.com/Rafael-TOZATO)
-- **Medium:** [@ornelas.tozato](https://medium.com/@ornelas.tozato)
-- **Dev Hub:** [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
-- **Microsoft Learn:** [rafaelornelastozato-2209](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209)
+💼 **NETWORK & CONTACT**
+• LinkedIn: [linkedin.com/in/rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
+• E-mail: [ornelas.tozato@gmail.com](mailto:ornelas.tozato@gmail.com)
+• Microsoft Learn: [rafaelornelastozato-2209](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209)

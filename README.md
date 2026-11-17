@@ -72,17 +72,18 @@ Este repositório adota controles automatizados de Governança 4.0 para assegura
 
 ## 📬 CONTATOS E PERFIS
 
-💻 PROJECTS & PORTFOLIOS
-• App Ecosystem: https://tozato-ai-core.vercel.app
-• H-Folio Professional: https://h-folio-I0.vercel.app
+💻 **PROJETOS E PORTFÓLIOS**
+* Ecossistema de Aplicativos: [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
+* H-Folio Professional: [h-folio-I0.vercel.app](https://h-folio-I0.vercel.app)
 
-🐙 CODES & REPOSITORIES
-• GitHub: https://github.com/Rafael-TOZATO
+🐙 **CÓDIGOS E REPOSITÓRIOS**
+* GitHub: [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
 
-✍️ ARTICLES & PUBLICATIONS
-• Medium: https://medium.com/@ornelas.tozato
-• DEV Community: https://dev.to/rafaeltozato
+✍️ **ARTIGOS E PUBLICAÇÕES**
+* Medium: [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
+* Comunidade DEV: [dev.to/rafaeltozato](https://dev.to/rafaeltozato)
 
-💼 NETWORK & CONTACT
-• LinkedIn: https://www.linkedin.com/in/rafaeltozato81
-• E-mail: ornelas.tozato@gmail.com
+💼 **REDE E CONTATO**
+* LinkedIn: [linkedin.com/in/rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
+* E-mail: [ornelas.tozato@gmail.com](mailto:ornelas.tozato@gmail.com)
+* 
